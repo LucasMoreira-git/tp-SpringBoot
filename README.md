@@ -35,8 +35,6 @@ El proyecto permite practicar:
 | Spring Web MVC | Base para aplicaciones web y APIs |
 | Spring Data JPA | Integración con persistencia y Hibernate |
 | H2 | Base de datos relacional en memoria |
-| Lombok | Dependencia disponible para reducir código repetitivo |
-| JUnit | Pruebas automatizadas |
 
 Las dependencias se encuentran en [pom.xml](./pom.xml).
 
@@ -359,7 +357,3 @@ Próximos pasos posibles:
 - Crear controladores REST.
 - Agregar validaciones de entrada.
 - Implementar formalmente la entidad de composición `DetallePedido`.
-
-## Licencia
-
-Proyecto académico desarrollado con fines educativos.
